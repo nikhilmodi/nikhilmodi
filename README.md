@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nikhilmodi
-- 👀 I’m interested in frontend 
-- 🌱 I’m currently learning NextJS
-- 💞️ My tech stack - React with Redux, JavaScript, HTML5, CSS3, SCSS.
-- 📫 How to reach me ...
+- 👀 I’m Senior Software Developer having 6 years of experience, currently working with Housing.com
+- 🌱 I’m currently learning TypeScript
+- 💞️ My tech stack - React with Redux, JavaScript, HTML5, CSS3, SCSS, NextJS, .
+- 📫 How to reach me  - mail me at 22nikhilkumar96@gmail.com or whatsapp me on 9944881677.
 
 <!---
 nikhilmodi/nikhilmodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
