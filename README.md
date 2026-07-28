@@ -19,7 +19,6 @@ Tech Lead with <!--yoe-->7<!--/yoe--> years of experience building web applicati
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilmodi&show_icons=true&theme=default&hide_border=true)
 
 <!---
 nikhilmodi/nikhilmodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
