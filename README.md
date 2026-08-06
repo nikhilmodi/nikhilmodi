@@ -1,6 +1,6 @@
 ### Hi, I'm Nikhil Modi 👋
 
-Tech Lead with <!--yoe-->7<!--/yoe--> years of experience building web applications, currently at [Housing.com](https://housing.com).
+Tech Lead with <!--yoe-->8<!--/yoe--> years of experience building web applications, currently at [Housing.com](https://housing.com).
 
 - 💼 **Housing.com** — Tech Lead _(Oct 2021 – Present)_
 - 🏢 **Toshiba** — Software Developer _(Aug 2018 – Oct 2021)_
